@@ -223,9 +223,6 @@ The framework records and analyzes:
 ## Documentation
 
 - [**`SUBMISSION_REPORT.md`**](SUBMISSION_REPORT.md) — Complete academic report, mathematical derivations, and detailed results analysis.
-- [**`VIVA_QUESTIONS_AND_ANSWERS.md`**](VIVA_QUESTIONS_AND_ANSWERS.md) — Comprehensive examiner Q&A preparation guide.
-- [**`PRESENTATION_SLIDES.md`**](PRESENTATION_SLIDES.md) — 20-slide presentation deck matching the project roadmap.
-
 ---
 
 ## Acknowledgements
