@@ -1,0 +1,1 @@
+{"attack": "gaussian", "aggregator": "trimmed_mean", "byz_frac": 0.2, "partition": "iid", "seed": 0, "byzantine": [0, 5], "accuracy": [0.456, 0.568, 0.6165, 0.7305, 0.7525, 0.7995, 0.796, 0.8285, 0.8215, 0.8615, 0.8715, 0.866, 0.8655, 0.8695, 0.882]}

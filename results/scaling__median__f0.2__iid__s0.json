@@ -1,0 +1,1 @@
+{"attack": "scaling", "aggregator": "median", "byz_frac": 0.2, "partition": "iid", "seed": 0, "byzantine": [0, 5], "accuracy": [0.49, 0.561, 0.611, 0.7285, 0.764, 0.8155, 0.809, 0.8295, 0.8395, 0.867, 0.871, 0.8705, 0.8605, 0.88, 0.889]}

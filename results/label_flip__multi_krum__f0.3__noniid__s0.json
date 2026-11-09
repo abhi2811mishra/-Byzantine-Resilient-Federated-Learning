@@ -1,0 +1,1 @@
+{"attack": "label_flip", "aggregator": "multi_krum", "byz_frac": 0.3, "partition": "noniid", "seed": 0, "byzantine": [2, 3, 5], "accuracy": [0.1205, 0.145, 0.147, 0.283, 0.342, 0.3495, 0.367, 0.3675, 0.3625, 0.3875, 0.3795, 0.374, 0.3915, 0.3965, 0.386]}

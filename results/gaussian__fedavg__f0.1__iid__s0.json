@@ -1,0 +1,1 @@
+{"attack": "gaussian", "aggregator": "fedavg", "byz_frac": 0.1, "partition": "iid", "seed": 0, "byzantine": [5], "accuracy": [0.4455, 0.5625, 0.6015, 0.7175, 0.7495, 0.7865, 0.7935, 0.82, 0.815, 0.856, 0.8655, 0.859, 0.841, 0.866, 0.886]}

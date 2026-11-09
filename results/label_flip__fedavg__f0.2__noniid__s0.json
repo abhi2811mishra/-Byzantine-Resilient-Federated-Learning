@@ -1,0 +1,1 @@
+{"attack": "label_flip", "aggregator": "fedavg", "byz_frac": 0.2, "partition": "noniid", "seed": 0, "byzantine": [2, 5], "accuracy": [0.2125, 0.166, 0.2615, 0.3525, 0.452, 0.453, 0.486, 0.4765, 0.4825, 0.492, 0.4925, 0.5005, 0.5125, 0.533, 0.495]}

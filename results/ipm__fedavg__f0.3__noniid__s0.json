@@ -1,0 +1,1 @@
+{"attack": "ipm", "aggregator": "fedavg", "byz_frac": 0.3, "partition": "noniid", "seed": 0, "byzantine": [2, 3, 5], "accuracy": [0.1335, 0.29, 0.358, 0.361, 0.3845, 0.415, 0.4335, 0.45, 0.4805, 0.499, 0.5085, 0.5365, 0.555, 0.559, 0.568]}

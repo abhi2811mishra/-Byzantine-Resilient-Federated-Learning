@@ -1,3 +1,5 @@
-"venv/" 
-"mnist_data/" 
-"__pycache__/" 
+venv/
+mnist_data/
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,1 @@
+{"attack": "ipm", "aggregator": "multi_krum", "byz_frac": 0.2, "partition": "iid", "seed": 0, "byzantine": [0, 5], "accuracy": [0.452, 0.5705, 0.622, 0.731, 0.7545, 0.8035, 0.7955, 0.8295, 0.8395, 0.8425, 0.862, 0.86, 0.857, 0.8605, 0.874]}

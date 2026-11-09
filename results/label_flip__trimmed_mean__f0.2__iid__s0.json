@@ -1,0 +1,1 @@
+{"attack": "label_flip", "aggregator": "trimmed_mean", "byz_frac": 0.2, "partition": "iid", "seed": 0, "byzantine": [0, 5], "accuracy": [0.4185, 0.5645, 0.606, 0.724, 0.7485, 0.795, 0.7945, 0.825, 0.8165, 0.8615, 0.8735, 0.8675, 0.866, 0.876, 0.8855]}

@@ -1,0 +1,1 @@
+{"attack": "scaling", "aggregator": "fedavg", "byz_frac": 0.2, "partition": "iid", "seed": 0, "byzantine": [0, 5], "accuracy": [0.5185, 0.541, 0.648, 0.733, 0.8055, 0.818, 0.8035, 0.843, 0.8725, 0.871, 0.861, 0.8835, 0.848, 0.8995, 0.888]}
