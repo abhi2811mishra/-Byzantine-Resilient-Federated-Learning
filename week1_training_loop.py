@@ -6,6 +6,7 @@ Milestone 1 (centralized MNIST) and every FL client later will use.
 
 Run: python3 week1_training_loop.py
 """
+import numpy as np
 import torch
 import torch.nn as nn
 from torch.utils.data import Dataset, DataLoader
